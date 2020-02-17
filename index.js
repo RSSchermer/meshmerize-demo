@@ -70,14 +70,14 @@
 /******/ 					"__wbg_stack_558ba5917b466edd": function(p0i32,p1i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__wbg_stack_558ba5917b466edd"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbindgen_json_parse": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_json_parse"](p0i32,p1i32);
+/******/ 					"__wbindgen_jsval_eq": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_jsval_eq"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbindgen_cb_drop": function(p0i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_cb_drop"](p0i32);
 /******/ 					},
-/******/ 					"__wbindgen_jsval_eq": function(p0i32,p1i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_jsval_eq"](p0i32,p1i32);
+/******/ 					"__wbindgen_json_parse": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_json_parse"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbindgen_is_undefined": function(p0i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_is_undefined"](p0i32);
@@ -85,11 +85,26 @@
 /******/ 					"__wbindgen_string_new": function(p0i32,p1i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_string_new"](p0i32,p1i32);
 /******/ 					},
+/******/ 					"__widl_f_exit_pointer_lock_Document": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_exit_pointer_lock_Document"](p0i32);
+/******/ 					},
 /******/ 					"__widl_f_get_element_by_id_Document": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_get_element_by_id_Document"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__widl_f_stop_propagation_Event": function(p0i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_stop_propagation_Event"](p0i32);
+/******/ 					"__widl_f_request_pointer_lock_Element": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_request_pointer_lock_Element"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_client_width_Element": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_client_width_Element"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_client_height_Element": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_client_height_Element"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_prevent_default_Event": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_prevent_default_Event"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_target_Event": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_target_Event"](p0i32);
 /******/ 					},
 /******/ 					"__widl_f_add_event_listener_with_callback_and_add_event_listener_options_EventTarget": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_add_event_listener_with_callback_and_add_event_listener_options_EventTarget"](p0i32,p1i32,p2i32,p3i32,p4i32);
@@ -103,14 +118,32 @@
 /******/ 					"__widl_f_get_context_with_context_options_HTMLCanvasElement": function(p0i32,p1i32,p2i32,p3i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_get_context_with_context_options_HTMLCanvasElement"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__widl_f_client_x_MouseEvent": function(p0i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_client_x_MouseEvent"](p0i32);
+/******/ 					"__widl_f_set_width_HTMLCanvasElement": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_set_width_HTMLCanvasElement"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__widl_f_client_y_MouseEvent": function(p0i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_client_y_MouseEvent"](p0i32);
+/******/ 					"__widl_f_set_height_HTMLCanvasElement": function(p0i32,p1i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_set_height_HTMLCanvasElement"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__widl_instanceof_HTMLElement": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_instanceof_HTMLElement"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_set_inner_text_HTMLElement": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_set_inner_text_HTMLElement"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__widl_instanceof_HTMLInputElement": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_instanceof_HTMLInputElement"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_value_as_number_HTMLInputElement": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_value_as_number_HTMLInputElement"](p0i32);
 /******/ 					},
 /******/ 					"__widl_f_button_MouseEvent": function(p0i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_button_MouseEvent"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_movement_x_MouseEvent": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_movement_x_MouseEvent"](p0i32);
+/******/ 					},
+/******/ 					"__widl_f_movement_y_MouseEvent": function(p0i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_movement_y_MouseEvent"](p0i32);
 /******/ 					},
 /******/ 					"__widl_f_begin_transform_feedback_WebGL2RenderingContext": function(p0i32,p1i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_begin_transform_feedback_WebGL2RenderingContext"](p0i32,p1i32);
@@ -361,6 +394,9 @@
 /******/ 					"__widl_f_pixel_storei_WebGL2RenderingContext": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_pixel_storei_WebGL2RenderingContext"](p0i32,p1i32,p2i32);
 /******/ 					},
+/******/ 					"__widl_f_polygon_offset_WebGL2RenderingContext": function(p0i32,p1f32,p2f32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_polygon_offset_WebGL2RenderingContext"](p0i32,p1f32,p2f32);
+/******/ 					},
 /******/ 					"__widl_f_scissor_WebGL2RenderingContext": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
 /******/ 						return installedModules["./pkg/index.js"].exports["__widl_f_scissor_WebGL2RenderingContext"](p0i32,p1i32,p2i32,p3i32,p4i32);
 /******/ 					},
@@ -529,17 +565,17 @@
 /******/ 					"__wbindgen_memory": function() {
 /******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_memory"]();
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper11720": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper11720"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper12526": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper12526"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper9168": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper9168"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper8329": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper8329"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper9166": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper9166"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper8331": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper8331"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper12093": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper12093"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper13068": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["./pkg/index.js"].exports["__wbindgen_closure_wrapper13068"](p0i32,p1i32,p2i32);
 /******/ 					}
 /******/ 				}
 /******/ 			};
@@ -642,7 +678,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/index_bg.wasm":"17736362faf81f5b82e4"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"./pkg/index_bg.wasm":"3530ee7052fd85d769be"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
@@ -743,7 +779,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("// For more comments about what's going on here, check out the `hello_world`\r\n// example.\r\nPromise.all(/*! import() */[__webpack_require__.e(0), __webpack_require__.e(1)]).then(__webpack_require__.bind(null, /*! ./pkg */ \"./pkg/index.js\"))\r\n    .catch(console.error);\r\n\n\n//# sourceURL=webpack:///./index.js?");
+eval("// For more comments about what's going on here, check out the `hello_world`\n// example.\nPromise.all(/*! import() */[__webpack_require__.e(0), __webpack_require__.e(1)]).then(__webpack_require__.bind(null, /*! ./pkg */ \"./pkg/index.js\"))\n    .catch(console.error);\n\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ })
 
