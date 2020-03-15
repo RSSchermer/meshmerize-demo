@@ -9,9 +9,9 @@
       <span>
         <label for="mode_select">Mode:</label>
         <select id="mode_select">
-          <option>Vertex</option>
-          <option>Edge</option>
-          <option>face</option>
+          <option value="vertex">Vertex</option>
+          <option value="edge">Edge</option>
+          <option value="face">face</option>
         </select>
       </span>
 
@@ -20,6 +20,12 @@
         <input type="range" id="sharpness_slider" min="0.0" max="10.0" step="0.1" value="0.0">
         <span id="sharpness_value">0</span>
       </span>
+
+      <button id="translate_gizmo_button">Translate</button>
+
+      <button id="semv_button">SEMV</button>
+
+      <button id="sfme_button">SFME</button>
 
       <button id="subdivide_button">Subdivide</button>
     </header>
